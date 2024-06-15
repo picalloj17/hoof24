@@ -1,0 +1,121 @@
+@import url(https://fonts.googleapis.com/css?family=Karla);
+
+.homepage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Karla", serif;
+    color: White;
+    background-color: #111111;
+  }
+  
+  header {
+    margin: 20px 0;
+  }
+  
+  nav {
+    margin-bottom: 20px;
+    background-color: #2e2e2e; /* Gray background color */
+    border: 1px solid #ccc; /* Border around the navbar */
+    border-radius: 5px; /* Rounded corners */
+    padding: 10px 0; /* Add padding inside the navbar */
+    width: 100%; /* Span the page width */
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Center contents horizontally */
+  }
+  
+  nav ul li {
+    margin: 0 70px; /* Add margin between navbar items */
+  }
+  
+  nav ul li:last-child {
+    margin-right: 0; /* Remove margin from last navbar item */
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #adadad;
+  }
+  
+  main {
+    width: 80%;
+    max-width: 800px;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+
+
+h2 {
+ text-align: center;
+ text-decoration: underline;
+ font-style: italic;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+  }
+
+p {
+  text-align: center;
+  font-size: 20px;
+}
+
+.splashheader {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.image-container {
+  position: relative;
+  width: 520px;  /* Fixed width */
+  height: 600px; /* Fixed height */
+  overflow: hidden;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures images cover the designated space */
+  transition: filter 0.5s ease;
+}
+
+.image-container:hover .image {
+  filter: brightness(50%);
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 10px;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.image-container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  font-size: 16px;
+  font-weight: bold;
+}
+
