@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hoof24/static/css/main.21d55b6d.css",
-    "main.js": "/hoof24/static/js/main.265921ae.js",
+    "main.js": "/hoof24/static/js/main.85db3031.js",
     "static/media/marriage.png": "/hoof24/static/media/marriage.3ff1c84b41cf54c95ce9.png",
     "static/media/earlylife.png": "/hoof24/static/media/earlylife.8de7241e90ea17dc69be.png",
     "static/media/dad-and-kids.jpeg": "/hoof24/static/media/dad-and-kids.9a88de42987284b49aac.jpeg",
@@ -12,10 +12,10 @@
     "static/media/titlepic.jpg": "/hoof24/static/media/titlepic.d7aca6f04df691d110be.jpg",
     "index.html": "/hoof24/index.html",
     "main.21d55b6d.css.map": "/hoof24/static/css/main.21d55b6d.css.map",
-    "main.265921ae.js.map": "/hoof24/static/js/main.265921ae.js.map"
+    "main.85db3031.js.map": "/hoof24/static/js/main.85db3031.js.map"
   },
   "entrypoints": [
     "static/css/main.21d55b6d.css",
-    "static/js/main.265921ae.js"
+    "static/js/main.85db3031.js"
   ]
 }
