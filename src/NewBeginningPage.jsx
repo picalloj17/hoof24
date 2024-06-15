@@ -40,7 +40,7 @@ function NewBeginning() {
         This move brought Steve closer to his work in Seattle, while Kellie embraced the opportunity to start fresh in a new area, supported by her loving new family. 
         Their new home in Redmond symbolized not just a geographical shift but the beginning of a united and hopeful future for Steve, Kellie, and their children—Alex, Cori, and Josh.</p>
 
-      <p></p>
+      <p>test</p>
     </div>
   );
 }
