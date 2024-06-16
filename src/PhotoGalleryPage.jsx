@@ -146,25 +146,25 @@ function PhotoGallery() {
       <div className="image-container">
         <img src={dadheadshot} alt="Image 1" className="image" />
         <div className="overlay">
-          <div className="text">Steve and the crew sharing a laugh of which probably was from him making a right up to the line joke, moments before he most likely took it to far trying too one-up himself.</div>
+          <div className="text"> A charismatic Steve with the top 4 buttons undone, rockin the hell out of that white linen </div>
         </div>
       </div>
       <div className="image-container">
         <img src={dadheadshot2} alt="Image 2" className="image" />
         <div className="overlay">
-          <div className="text">Riding a camel for the first time was an unforgettable memory for Steve, still blissfully unaware in this photo of his allergy to camels...</div>
+          <div className="text">A nice sunny day, class of '85 t-shirt on, matching the watch band to the belt. Now thats fashion</div>
         </div>
       </div>
       <div className="image-container">
         <img src={dadhighschool} alt="Image 3" className="image" />
         <div className="overlay">
-          <div className="text">A fond trip taken with his father, holding a souvenir that will be the first of many from his time in Europe</div>
+          <div className="text">A candid of Steve, to this day no one knows what he was doing in this picture...</div>
         </div>
         </div>
         <div className="image-container">
         <img src={dadhighschool2} alt="Image 4" className="image" />
         <div className="overlay">
-          <div className="text">The ultimate game night, DnD, in this photo most likely making up their own rules as they even at a young age knew they could make a better game</div>
+          <div className="text">Yearbook photos, I'm sure his brothers Dan and Mike had nothing but good things to say about this one!</div>
         </div>
       </div>
     </div>
@@ -178,25 +178,25 @@ function PhotoGallery() {
       <div className="image-container">
         <img src={famgrandpa} alt="Image 1" className="image" />
         <div className="overlay">
-          <div className="text">Steve and the crew sharing a laugh of which probably was from him making a right up to the line joke, moments before he most likely took it to far trying too one-up himself.</div>
+          <div className="text"> The family taking a trip, a improptu photo taken with his siblings and father.</div>
         </div>
       </div>
       <div className="image-container">
         <img src={dadruins} alt="Image 2" className="image" />
         <div className="overlay">
-          <div className="text">Riding a camel for the first time was an unforgettable memory for Steve, still blissfully unaware in this photo of his allergy to camels...</div>
+          <div className="text">Steve and his Dad taking a picture of their discorvery of stronghold ruins.</div>
         </div>
       </div>
       <div className="image-container">
         <img src={youngdadtown} alt="Image 3" className="image" />
         <div className="overlay">
-          <div className="text">A fond trip taken with his father, holding a souvenir that will be the first of many from his time in Europe</div>
+          <div className="text">A trip taken to an old European village with his siblings.</div>
         </div>
         </div>
         <div className="image-container">
         <img src={dadspeech} alt="Image 4" className="image" />
         <div className="overlay">
-          <div className="text">The ultimate game night, DnD, in this photo most likely making up their own rules as they even at a young age knew they could make a better game</div>
+          <div className="text">Steve speaking at Future Stores conference,one of the many events where he was a key speaker</div>
         </div>
       </div>
     </div>
@@ -210,25 +210,25 @@ function PhotoGallery() {
       <div className="image-container">
         <img src={dadkids} alt="Image 1" className="image" />
         <div className="overlay">
-          <div className="text">Steve and the crew sharing a laugh of which probably was from him making a right up to the line joke, moments before he most likely took it to far trying too one-up himself.</div>
+          <div className="text">Steve Freeman (Center) with his 2 children, Alex (Left) and Cori (Right)</div>
         </div>
       </div>
       <div className="image-container">
         <img src={dadkids2} alt="Image 2" className="image" />
         <div className="overlay">
-          <div className="text">Riding a camel for the first time was an unforgettable memory for Steve, still blissfully unaware in this photo of his allergy to camels...</div>
+          <div className="text">A family trip to Leavenworth,WA where this was just what the family chose to wear out that day. Just so happened there was a photoshoot</div>
         </div>
       </div>
       <div className="image-container">
         <img src={youngdad} alt="Image 3" className="image" />
         <div className="overlay">
-          <div className="text">A fond trip taken with his father, holding a souvenir that will be the first of many from his time in Europe</div>
+          <div className="text">Young Steve during his time in the scouts, here pictured during his Cub Scout days.</div>
         </div>
         </div>
         <div className="image-container">
         <img src={youngdad2} alt="Image 4" className="image" />
         <div className="overlay">
-          <div className="text">The ultimate game night, DnD, in this photo most likely making up their own rules as they even at a young age knew they could make a better game</div>
+          <div className="text">Steve celebrating with a cake topped with Chess pieces, checkers pieces, and what appears to be Sorry! pieces as well. Hopefully not consumed...</div>
         </div>
       </div>
     </div>
@@ -242,13 +242,13 @@ function PhotoGallery() {
       <div className="image-container">
         <img src={marriage} alt="Image 1" className="image" />
         <div className="overlay">
-          <div className="text">Steve and the crew sharing a laugh of which probably was from him making a right up to the line joke, moments before he most likely took it to far trying too one-up himself.</div>
+          <div className="text">The day 2 families became 1, Cori (Left) Kellie (Left Middle) Steve (Right Middle) Alex (Right) and Josh (Bottom Middle)</div>
         </div>
       </div>
       <div className="image-container">
         <img src={younggrandpa} alt="Image 2" className="image" />
         <div className="overlay">
-          <div className="text">Riding a camel for the first time was an unforgettable memory for Steve, still blissfully unaware in this photo of his allergy to camels...</div>
+          <div className="text">A candid shot featuring their childhood cat, legends say that cat was a mean ol' bastard...</div>
         </div>
       </div>
     </div>
