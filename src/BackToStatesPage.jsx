@@ -48,15 +48,15 @@ function BackToStates() {
         <p>After graduation, Steve found himself in need of a steady income to support his growing family. 
           He quickly obtained his insurance license and began working for Safeco. During this period, he welcomed his second child, Cori, into the world. 
           Although his job at Safeco provided financial stability, Steve continued to seek opportunities that aligned more closely with his passions. 
-          This search led him to a career at Sierra Online, a small but innovative game studio and software company. At Sierra Online, Steve played a crucial role in developing some of their 
+          This search led him to a career at E-Media, a small but innovative game studio and software company. At E-Media, Steve played a crucial role in developing some of their 
           most popular software titles, channeling his creativity and leadership skills into groundbreaking projects. However, this chapter of his life was not without its challenges. 
           Despite facing personal hardships that we'll not delve into here, Steve navigated the complexities of single parenthood with unwavering dedication. He continued to love and care 
-          for Alex and Cori while striving for a brighter future. His work at Sierra Online not only showcased his professional talents but also reinforced his commitment to building a 
+          for Alex and Cori while striving for a brighter future. His work at E-Media not only showcased his professional talents but also reinforced his commitment to building a 
           better life for not just himself and his children.</p>
           <br />
         <br />
         <br />
-        <p>Steven then leveraged the skills, experience, and connections he had gained at Sierra Online to secure a position at a burgeoning online book retailer called Amazon. 
+        <p>Steven then leveraged the skills, experience, and connections he had gained at E-Media to secure a position at a burgeoning online book retailer called Amazon. 
           This new role represented a significant opportunity, aligning with his ambitions and providing a platform for further growth. As he immersed himself in the dynamic environment of 
           Amazon, he found himself at the cusp of an exciting career transformation. Little did he know, this position would mark both the closing of one chapter and the beginning of another. 
           The knowledge and expertise he brought to Amazon helped shape its early development, setting the stage for future success. At the same time, this role would open doors to unforeseen 

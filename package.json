@@ -1,12 +1,13 @@
 {
+  "homepage": "http://picalloj17.github.io/hoof24",
   "name": "hoof-revamp",
   "version": "0.1.0",
-  "homepage": "https://picalloj17.github.io/hoof24",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "browser-router": "^0.2.0",
     "flickity": "^3.0.0",
     "joi": "^17.12.1",
     "react": "^18.2.0",
