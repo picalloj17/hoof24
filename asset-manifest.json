@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/hoof24/static/css/main.a22c890f.css",
-    "main.js": "/hoof24/static/js/main.ca35b803.js",
-    "static/js/453.712f178e.chunk.js": "/hoof24/static/js/453.712f178e.chunk.js",
+    "main.js": "/hoof24/static/js/main.2d1c1c6a.js",
     "static/media/marriage.png": "/hoof24/static/media/marriage.3ff1c84b41cf54c95ce9.png",
     "static/media/earlylife.png": "/hoof24/static/media/earlylife.8de7241e90ea17dc69be.png",
     "static/media/dad-kids2.jpeg": "/hoof24/static/media/dad-kids2.67820fdd7267b036413a.jpeg",
@@ -34,11 +33,10 @@
     "static/media/young-dad.jpeg": "/hoof24/static/media/young-dad.a23209314126e1c341d9.jpeg",
     "index.html": "/hoof24/index.html",
     "main.a22c890f.css.map": "/hoof24/static/css/main.a22c890f.css.map",
-    "main.ca35b803.js.map": "/hoof24/static/js/main.ca35b803.js.map",
-    "453.712f178e.chunk.js.map": "/hoof24/static/js/453.712f178e.chunk.js.map"
+    "main.2d1c1c6a.js.map": "/hoof24/static/js/main.2d1c1c6a.js.map"
   },
   "entrypoints": [
     "static/css/main.a22c890f.css",
-    "static/js/main.ca35b803.js"
+    "static/js/main.2d1c1c6a.js"
   ]
 }
