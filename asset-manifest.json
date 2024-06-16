@@ -1,21 +1,42 @@
 {
   "files": {
-    "main.css": "/hoof24/static/css/main.21d55b6d.css",
-    "main.js": "/hoof24/static/js/main.85db3031.js",
+    "main.css": "/hoof24/static/css/main.e6c492ea.css",
+    "main.js": "/hoof24/static/js/main.abac7df4.js",
     "static/media/marriage.png": "/hoof24/static/media/marriage.3ff1c84b41cf54c95ce9.png",
     "static/media/earlylife.png": "/hoof24/static/media/earlylife.8de7241e90ea17dc69be.png",
+    "static/media/dad-kids2.jpeg": "/hoof24/static/media/dad-kids2.67820fdd7267b036413a.jpeg",
+    "static/media/marriage.jpeg": "/hoof24/static/media/marriage.d7f6462a64488ea881f4.jpeg",
+    "static/media/young-grandpa-freeman.jpeg": "/hoof24/static/media/young-grandpa-freeman.2f7c24308911d6a5a07c.jpeg",
     "static/media/dad-and-kids.jpeg": "/hoof24/static/media/dad-and-kids.9a88de42987284b49aac.jpeg",
+    "static/media/dad-beach.jpeg": "/hoof24/static/media/dad-beach.1cb111c2107bb520b9e5.jpeg",
+    "static/media/dad-flowers.jpeg": "/hoof24/static/media/dad-flowers.304055917700cbf0ee63.jpeg",
+    "static/media/dad-forest.jpeg": "/hoof24/static/media/dad-forest.3bfc1128b6588f91d80e.jpeg",
+    "static/media/young-dad-town.jpeg": "/hoof24/static/media/young-dad-town.7d3fb159ec84de261e83.jpeg",
+    "static/media/dad-hs-2.jpeg": "/hoof24/static/media/dad-hs-2.7e1f994a4a8c73223580.jpeg",
+    "static/media/young-dad-2.jpeg": "/hoof24/static/media/young-dad-2.edaaf60380ffc7994066.jpeg",
+    "static/media/family-with-grandpa.jpeg": "/hoof24/static/media/family-with-grandpa.f8a92c9f7879eb1dcdca.jpeg",
     "static/media/dad-dnd.jpeg": "/hoof24/static/media/dad-dnd.d352883f0f8b20058794.jpeg",
     "static/media/dad-grandpa-ontrain.jpeg": "/hoof24/static/media/dad-grandpa-ontrain.7b5d25e714029b2c05eb.jpeg",
+    "static/media/dad-dnd2.jpeg": "/hoof24/static/media/dad-dnd2.2612aed286a56f6f874c.jpeg",
+    "static/media/grandpa-freeman-dad-ruins.jpeg": "/hoof24/static/media/grandpa-freeman-dad-ruins.083c97d55849c84da5e5.jpeg",
+    "static/media/dad-headshot.jpeg": "/hoof24/static/media/dad-headshot.b369f8a7fe4acc6d6a2c.jpeg",
+    "static/media/dad-and-friends3.jpeg": "/hoof24/static/media/dad-and-friends3.b8a6c210fa278bbf3f17.jpeg",
+    "static/media/dad-grandpa-statue.jpeg": "/hoof24/static/media/dad-grandpa-statue.70a1747da69876703edd.jpeg",
     "static/media/dad-and-friends.jpeg": "/hoof24/static/media/dad-and-friends.d235016b0560e61ea8ff.jpeg",
+    "static/media/dad-highschool.jpeg": "/hoof24/static/media/dad-highschool.e03eed210cc9d4cc2c9a.jpeg",
     "static/media/dad-camel.jpeg": "/hoof24/static/media/dad-camel.f11dceb02c2d9e43a69b.jpeg",
+    "static/media/dad-greatgrandma.jpeg": "/hoof24/static/media/dad-greatgrandma.e47a8e9cafa19bde3f57.jpeg",
     "static/media/titlepic.jpg": "/hoof24/static/media/titlepic.d7aca6f04df691d110be.jpg",
+    "static/media/dad-greatgrandpa.jpeg": "/hoof24/static/media/dad-greatgrandpa.fc87f34ca1fa375d0533.jpeg",
+    "static/media/dad-speach.jpg": "/hoof24/static/media/dad-speach.f92e4fb9a3e9e1fa8349.jpg",
+    "static/media/dad-headshot2.jpeg": "/hoof24/static/media/dad-headshot2.5dd77e70eb2505aa58e5.jpeg",
+    "static/media/young-dad.jpeg": "/hoof24/static/media/young-dad.a23209314126e1c341d9.jpeg",
     "index.html": "/hoof24/index.html",
-    "main.21d55b6d.css.map": "/hoof24/static/css/main.21d55b6d.css.map",
-    "main.85db3031.js.map": "/hoof24/static/js/main.85db3031.js.map"
+    "main.e6c492ea.css.map": "/hoof24/static/css/main.e6c492ea.css.map",
+    "main.abac7df4.js.map": "/hoof24/static/js/main.abac7df4.js.map"
   },
   "entrypoints": [
-    "static/css/main.21d55b6d.css",
-    "static/js/main.85db3031.js"
+    "static/css/main.e6c492ea.css",
+    "static/js/main.abac7df4.js"
   ]
 }
