@@ -53,7 +53,7 @@ function NewBeginning() {
       <br />
 
       <p>After seven years in Washington working for Amazon, Steve experienced significant changes in his personal and professional life. 
-        Alex, his eldest, had followed in his footsteps by attending and graduating from the University of Washington. Meanwhile, Cori embarked on her own adult path. 
+        Alex, his eldest, had followed in his footsteps by attending and graduating from the University of Washington. Meanwhile, Cori embarked on her own path into adulthood. 
         Seeking new opportunities, Steve transitioned to a role at Macy's in the San Francisco Bay Area, prompting a move for himself, Kellie, and Josh. 
         This relocation allowed Steve to support Josh as he graduated from middle school and high school. Professionally, Steve thrived, earning speaking opportunities at major 
         e-commerce conferences and even winning Macy's prestigious "Magic Man of the Year" award. This period marked a time of growth and achievement for Steve, both in his career 

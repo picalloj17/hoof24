@@ -60,19 +60,19 @@ function PhotoGallery() {
       <div className="image-container">
         <img src={dadfriends3} alt="Image 2" className="image" />
         <div className="overlay">
-          <div className="text">Riding a camel for the first time was an unforgettable memory for Steve, still blissfully unaware in this photo of his allergy to camels...</div>
+          <div className="text">A photo of Steve in his "Cool Dude" phase, jorts and all. Bonus cool points for the partially unzipped fly!</div>
         </div>
       </div>
       <div className="image-container">
         <img src={dadbeach} alt="Image 3" className="image" />
         <div className="overlay">
-          <div className="text">A fond trip taken with his father, holding a souvenir that will be the first of many from his time in Europe</div>
+          <div className="text">A trip taken to one of many historic sites, a favorite of his during his time in Europe.</div>
         </div>
         </div>
         <div className="image-container">
         <img src={dadcamel} alt="Image 4" className="image" />
         <div className="overlay">
-          <div className="text">The ultimate game night, DnD, in this photo most likely making up their own rules as they even at a young age knew they could make a better game</div>
+          <div className="text">Riding a camel for the first time was an unforgettable memory for Steve, still blissfully unaware in this photo of his allergy to camels...</div>
         </div>
       </div>
     </div>
@@ -84,25 +84,25 @@ function PhotoGallery() {
       <div className="image-container">
         <img src={daddnd} alt="Image 1" className="image" />
         <div className="overlay">
-          <div className="text">Steve and the crew sharing a laugh of which probably was from him making a right up to the line joke, moments before he most likely took it to far trying too one-up himself.</div>
+          <div className="text">The ultimate game night, DnD, in this photo most likely making up their own rules as they even at a young age knew they could make a better game</div>
         </div>
       </div>
       <div className="image-container">
         <img src={daddnd2} alt="Image 2" className="image" />
         <div className="overlay">
-          <div className="text">Riding a camel for the first time was an unforgettable memory for Steve, still blissfully unaware in this photo of his allergy to camels...</div>
+          <div className="text">More time spent playing DnD, perfecting his storytelling as a DM from a young age.</div>
         </div>
       </div>
       <div className="image-container">
         <img src={dadflowers} alt="Image 3" className="image" />
         <div className="overlay">
-          <div className="text">A fond trip taken with his father, holding a souvenir that will be the first of many from his time in Europe</div>
+          <div className="text">The picture that inspired the cover art to popular album "Flower Boy" from musical artist Tyler, The Creator (or so the legend says)</div>
         </div>
         </div>
         <div className="image-container">
         <img src={dadforest} alt="Image 4" className="image" />
         <div className="overlay">
-          <div className="text">The ultimate game night, DnD, in this photo most likely making up their own rules as they even at a young age knew they could make a better game</div>
+          <div className="text">Steve standing atop a hill in the forest near their Germany home where he found ancient ruins!</div>
         </div>
       </div>
     </div>
@@ -115,25 +115,25 @@ function PhotoGallery() {
       <div className="image-container">
         <img src={dadgrandpatrain} alt="Image 1" className="image" />
         <div className="overlay">
-          <div className="text">Steve and the crew sharing a laugh of which probably was from him making a right up to the line joke, moments before he most likely took it to far trying too one-up himself.</div>
+          <div className="text">A fond trip taken with his father, holding a souvenir that will be the first of many from his time in Europe</div>
         </div>
       </div>
       <div className="image-container">
         <img src={dadgrandpastatue} alt="Image 2" className="image" />
         <div className="overlay">
-          <div className="text">Riding a camel for the first time was an unforgettable memory for Steve, still blissfully unaware in this photo of his allergy to camels...</div>
+          <div className="text">A family trip again to another historic site this time featuring Roman Statues and plaques.</div>
         </div>
       </div>
       <div className="image-container">
         <img src={dadgreatgrandpa} alt="Image 3" className="image" />
         <div className="overlay">
-          <div className="text">A fond trip taken with his father, holding a souvenir that will be the first of many from his time in Europe</div>
+          <div className="text">Family time spent with Steve's Grandfather.</div>
         </div>
         </div>
         <div className="image-container">
         <img src={dadgreatgrandma} alt="Image 4" className="image" />
         <div className="overlay">
-          <div className="text">The ultimate game night, DnD, in this photo most likely making up their own rules as they even at a young age knew they could make a better game</div>
+          <div className="text">Steve spending time with his Grandmother as a young adult.</div>
         </div>
       </div>
     </div>

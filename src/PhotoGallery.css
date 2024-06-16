@@ -58,7 +58,7 @@
   
   .image-container {
     position: relative;
-    width: 420px;  /* Fixed width */
+    width: 450px;  /* Fixed width */
     height: 480px; /* Fixed height */
     overflow: hidden;
   }

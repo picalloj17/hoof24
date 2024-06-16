@@ -52,7 +52,7 @@ function BackToStates() {
           most popular software titles, channeling his creativity and leadership skills into groundbreaking projects. However, this chapter of his life was not without its challenges. 
           Despite facing personal hardships that we'll not delve into here, Steve navigated the complexities of single parenthood with unwavering dedication. He continued to love and care 
           for Alex and Cori while striving for a brighter future. His work at E-Media not only showcased his professional talents but also reinforced his commitment to building a 
-          better life for not just himself and his children.</p>
+          better life for not just himself but for his children.</p>
           <br />
         <br />
         <br />
